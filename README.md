@@ -32,7 +32,7 @@ Nos resultados agregados, o cenário Incremental alcançou F1 de 0.470, superand
 - Plotly
 
 ### Estrutura do repositório
-- `Incremental_Learning3.ipynb`: notebook principal com preparação dos dados, modelagem, avaliação e análise estatística.
+- `Incremental_Learning.ipynb`: notebook principal com preparação dos dados, modelagem, avaliação e análise estatística.
 
 ### Como executar
 1. Clone o repositório.
